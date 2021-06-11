@@ -1,0 +1,13 @@
+Hi!
+
+Welcome to the world of Maryo!
+
+You are Maryo. You aim to dodge the fireballs emitted by the Dragon robot as much as you can by moving yourselves UP and DOWN. Avoid hitting the roof with the venomous cactus and the fired-up floor. In this way, beat your high score every time. The game has four levels, and each level becomes more difficult as the roof and the floor come closer to you. TEASE THE DRAGON!!!!
+
+Directions -
+
+* Hold and press the UP arrow key to move up.
+* Hold and press the DOWN arrow key to move down. You automatically go down if you do not press the UP key.
+* Press ESC to exit the game.
+
+Good luck!
