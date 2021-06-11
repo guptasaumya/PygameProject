@@ -14,7 +14,7 @@ The following are to be installed in the same order, if not already present. Onc
 
 2. Pygame (1.9.2 or above version) - The application uses the Pygame package. If not already present, install it. For installation, check out https://www.pygame.org/wiki/GettingStarted for help.
 
-## Installing and Execution
+### Installing and Execution
 
 Clone this repository or download it as a zip and extract it in a folder. Go to the folder containing the ```maryo_game.py``` file and run it. You could run it using different ways, one of which is executing the command, ```python maryo_game.py``` on the terminal. Once you do that, you can hear Mario music. Now play!
 
