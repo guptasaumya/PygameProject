@@ -1,14 +1,23 @@
 # PygameProject
 
-## About
-MARYO is a basic 2-D arcade game which has been developed using the Python module, Pygame. For information about how to play, open Read_me.txt' file. The project was completed as a part of the beginners’ course in Python training from Internshala VTC.
+## Description
 
-## Requirements
-1. You need to install any IDE or text editor for python. I have used Python 3.3 IDE here. You can also install Sublime Text for it. If you are new to Python, consult the following site for installation and other information regarding syntax:
-https://www.python.org/about/gettingstarted/ .
+Maryo (well, it is not the Mario!) is a basic 2-D arcade game developed using the Python module, Pygame. For 'how to play' instructions, check out the 'game_instructions.txt' file. This application was developed as a part of a beginners’ course in Python training from Internshala VTC.
 
-2. You need to install the Pygame module. I have used the 1.9.2 version. For installation consult the following site:
-https://www.webucator.com/blog/2015/03/installing-the-windows-64-bit-version-of-pygame/ .
+## Getting Started
 
-## Usage
-Clone this repository and just click on the .py file and play! For 'how to play' read the 'Read_me.txt' file.
+### Dependencies
+
+The following are to be installed in order, if not already present. Once, you have these two, you are ready to install the game.
+
+1. Python (3.3 or above version) - The application is built on Python. If not already present, install it. If you are new to Python, check out https://www.python.org/about/gettingstarted/ for downloading and installation help.
+
+2. Pygame (1.9.2 or above version) - The application uses the Pygame package. If not already present, install it. For installation check out https://www.pygame.org/wiki/GettingStarted for help.
+
+## Installing and Execution
+
+Clone this repository or download as a zip and extract in a folder. Go to the folder containing maryo_game.py file and run it. You could run it using different ways, one of wic is with the command, ```pyhton maryo_game.py``` on the terminal. Once you do that you can hear the classic Mario music. Now play!
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
