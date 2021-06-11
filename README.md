@@ -2,7 +2,7 @@
 
 ## Description
 
-Maryo (well, it is not Mario!) is a basic 2-D arcade game developed using the Python module - Pygame. For how to play instructions, check out the 'game_instructions.txt' file. This application was created as a part of a beginners' course in Python training from Internshala VTC.
+Maryo (well, it is not Mario!) is a basic 2-D arcade game developed using the Python module - Pygame. For how to play instructions, check out the ```game_instructions.txt``` file. This application was created as a part of a beginners' course in Python training from Internshala VTC.
 
 ## Getting Started
 
@@ -16,8 +16,8 @@ The following are to be installed in the same order, if not already present. Onc
 
 ## Installing and Execution
 
-Clone this repository or download it as a zip and extract it in a folder. Go to the folder containing the maryo_game.py file and run it. You could run it using different ways, one of which is executing the command, ```python maryo_game.py``` on the terminal. Once you do that, you can hear Mario music. Now play!
+Clone this repository or download it as a zip and extract it in a folder. Go to the folder containing the ```maryo_game.py``` file and run it. You could run it using different ways, one of which is executing the command, ```python maryo_game.py``` on the terminal. Once you do that, you can hear Mario music. Now play!
 
 ## License
 
-This project is licensed under the MIT License - see the 'LICENSE' file for details.
+This project is licensed under the MIT License - see the ```LICENSE``` file for details.
